@@ -1,6 +1,6 @@
 '****************************************************************
 '*  Name    : UNTITLED.BAS                                      *
-'*  Author  : [BERKAY EFE OZBEN]                                *
+'*  Author  : ]                         none      *
 '*  Notice  : Copyright (c) 2022 [select VIEW...EDITOR OPTIONS] *
 '*          : All Rights Reserved                               *
 '*  Date    : 11.10.2022                                        *
